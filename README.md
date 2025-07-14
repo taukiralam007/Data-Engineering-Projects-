@@ -1,14 +1,13 @@
-# ✈️ Flights Delay Analysis with PySpark
+# 📊 Data Engineering Projects
 
-This project analyzes US flight delays using a public Databricks dataset and PySpark.
+This repository contains multiple data engineering mini-projects built with PySpark.
 
-## 🚀 Features
-- Cleaned null and unrealistic delay values
-- Found top delayed airports
-- Calculated average delay per destination
-- Saved cleaned data for downstream processing
+## 📁 Projects
 
-## 🧰 Tools Used
-- Databricks (PySpark)
-- Git & GitHub
+1. [Flights Delay Analysis](./notebooks/README.md)
+2. [Hospital No-Show Prediction](./Hospital-NoShow-Prediction/README.md)
+
+---
+
+More projects will be added soon!
 
